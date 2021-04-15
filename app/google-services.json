@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "308780368096",
+    "project_id": "login-37453",
+    "storage_bucket": "login-37453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308780368096:android:4f1da8b8876ab80dcd1085",
+        "android_client_info": {
+          "package_name": "com.example.firebaselistexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308780368096-rc8bv7q85q6vn03prdo4jvt63tcgeu65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPxyTvcNGInGAKPzrrru2Q1kvnEANljnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308780368096-rc8bv7q85q6vn03prdo4jvt63tcgeu65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308780368096:android:d99391f3e25a4eefcd1085",
+        "android_client_info": {
+          "package_name": "com.example.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308780368096-9kitgfeelqgrq2a5q8k0ppg7uo7m9fil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlelogin",
+            "certificate_hash": "98fbc4caffafd87f9e33857d38503f9b0f4dc0b9"
+          }
+        },
+        {
+          "client_id": "308780368096-rc8bv7q85q6vn03prdo4jvt63tcgeu65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPxyTvcNGInGAKPzrrru2Q1kvnEANljnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308780368096-rc8bv7q85q6vn03prdo4jvt63tcgeu65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
